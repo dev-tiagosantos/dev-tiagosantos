@@ -1,6 +1,6 @@
 ### Olá, Mundo! 😄
 
-Sou Tiago Santos, Atualmente trabalho como Suporte de TI, graduando em Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em Desenvolvimento de software com foco no desenvolvimento web. 
+Sou Tiago Santos, atualmente trabalho como Suporte de TI, graduando em Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em Desenvolvimento de software com foco no desenvolvimento web. 
 
 #### 👨‍💻 **Atualmente no programa Infinity School - Fullstack Web Development:**
 
