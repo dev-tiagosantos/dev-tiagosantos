@@ -10,7 +10,7 @@ Sou Tiago Santos, atualmente trabalho como Suporte de TI, graduando em Análise 
 
 #### 💻 **Projetos recentes:**
 - [Website League of Legends](https://github.com/dev-tiagosantos/League-of-legends-website-onepage) - projeto pessoal - HTML, CSS, Javascript
- [Hora do dia]( https://github.com/dev-tiagosantos/hora-do-dia) - projeto pessoal - HTML, CSS, Javascript
+- [Hora do dia]( https://github.com/dev-tiagosantos/hora-do-dia) - projeto pessoal - HTML, CSS, Javascript
 
 
 
