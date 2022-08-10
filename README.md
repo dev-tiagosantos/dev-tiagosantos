@@ -5,7 +5,7 @@ Sou Tiago Santos, atualmente trabalho como Suporte de TI, graduando em Análise 
 #### 👨‍💻 **Atualmente no programa Infinity School - Fullstack Web Development:**
 
 - *Front End:* HTML; CSS; Bootstrap; Typescript; JavaScript avançado; React.
-- *Back End:* Fundamentos de Node; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
+- *Back End:* Java; Segurança na Web; HTTP GET e HTTP POST; (Arquitetura WEB); Criando uma REST API; Criando Banco de Dados com MySQL; Gerenciamento de erros; Buffer e Streams; Consumo de API terceiras.
 - *Soft Skills:* Metodologias ágeis, Introdução ao mundo do desenvolvimento; Lógica de programação; Introdução ao JavaScript; IDE e Console; Banco de dados; GIT; Programação Orientada a Objetos ;Boas práticas de desenvolvimento.
 
 #### 💻 **Projetos recentes:**
