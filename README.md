@@ -15,6 +15,9 @@ Sou Tiago Santos, atualmente trabalho como Suporte de TI, graduando em Análise 
 - [MS MANUTENÇÃO]( https://msmanutencao.com.br//) - projeto desenvolvimento para empresa: MS MANUTENÇÃO - HTML, CSS, Javascript, Bootstrap, PHP
 
 
+#### 💻 **Certificações:**
+- [Scrum Fundamentals Certified]([https://github.com/dev-tiagosantos/League-of-legends-website-onepage](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-TiagoSilvadosSantos-933247.pdf)) - Certificação Scrum
+
 
 #### 📫 **Você pode me encontrar em:**
 
